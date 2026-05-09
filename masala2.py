@@ -1,0 +1,10 @@
+# 2-masala. Tuple e'lon qilingan va ushbu tuplening boshidagi 4-elementni va oxiridan 4-elementni chiqaring.
+# Input: t=(1,2,3,4,5,6,7,8,9,10)
+# Output: 4 7
+import os
+os.system ("cls")
+
+t=(1,2,3,4,5,6,7,8,9,10)
+
+print(t[4],t[-4])
+# tayyor
